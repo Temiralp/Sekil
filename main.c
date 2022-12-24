@@ -13,6 +13,9 @@ int main()
     int i,j,a,k,kullanicigirdi;
 
     for (i=0; i<80; i++)
+    
+    
+    printf("resul");
 
     {
         
