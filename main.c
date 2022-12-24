@@ -11,11 +11,12 @@ Write your code in this editor and press "Run" button to compile and execute it.
 int main()
 {
     int i,j,a,k,kullanicigirdi;
+    printf("resul");
 
     for (i=0; i<80; i++)
     
     
-    printf("resul");
+    
 
     {
         
