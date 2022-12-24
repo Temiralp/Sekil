@@ -12,6 +12,7 @@ int main()
 {
     int i,j,a,k,kullanicigirdi;
     printf("resul");
+    printf("ezgi");
 
     for (i=0; i<80; i++)
     
