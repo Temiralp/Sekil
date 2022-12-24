@@ -11,7 +11,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 int main()
 {
     int i,j,a,k,kullanicigirdi;
-    for (i=0; i<40; i++)
+    for (i=0; i<80; i++)
     {
         
         for(j=40; j>a;j--)
